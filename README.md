@@ -6,7 +6,7 @@ A simple version of Wordle game, written entirely on Python. This is a clone of 
 
 ## Gameplay description
 
-If you are not familiar with Wordle, here are short rules:
+If you are not familiar with Wordle, here are the short rules:
 
 - You need to guess a 5-letter English word. You can use either your real keyboard, or a virtual one on the screen.
 
