@@ -194,7 +194,7 @@ class Wordle:
 
 	def show_message(self, message_text, is_alpha):
 		'''First function refills messagebox with standart background color,
-		second adds message_text and sets alpha level for opaque message'''
+		second adds message_text and sets alpha level for transparent message'''
 		self.message.draw_msg()
 		self.message.add_msg(message_text, is_alpha)
 
