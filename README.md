@@ -18,7 +18,7 @@ If you are not familiar with Wordle, here are short rules:
 
 "Green" letters are in the right place
 
-"Yellow" letters are in the word, but on the other position
+"Yellow" letters are in the word, but in the wrong position
 
 "Grey" letters are not in the word.
 
