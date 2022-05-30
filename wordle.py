@@ -73,7 +73,7 @@ class Wordle:
 				self.timer=0
 
 	def check_key(self):
-		'''Checkinging input from player'''
+		'''Checking input from player'''
 		for event in pygame.event.get():
 			if event.type==pygame.QUIT:
 				sys.exit()
@@ -88,7 +88,7 @@ class Wordle:
 				self.check_button_click(pygame.mouse.get_pos())
 
 	def check_button_click(self, mouse_pos):
-		'''Check if muse was clicked on any button'''
+		'''Check if mouse was clicked on any button'''
 		for button in self.buttons:
 			if button.rect.collidepoint(mouse_pos):
 				if button.label=='DEL':
