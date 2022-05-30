@@ -37,4 +37,4 @@ class Settings():
 
 		'''Alphas'''
 		self.full=225
-		self.opaque=127
+		self.transparent=127

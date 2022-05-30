@@ -159,7 +159,7 @@ class Wordle:
 					self.can_print=True
 					self.guess=[]
 		else: #Word is too short or doesn't exist
-			self.show_message("Can't use this word", is_alpha=self.s.opaque)
+			self.show_message("Can't use this word", is_alpha=self.s.transparent)
 
 	def get_box(self, index):
 		'''Using the index in boxes group (30 total),
@@ -182,7 +182,7 @@ class Wordle:
 			button.draw_button(button.label)
 
 		'''If button already green - don't repaint
-		If button yellow - repaint only if new position is green'''
+		If button yellow - repaint only if in new guess the position is green'''
 		for button in self.buttons:
 			if button.label==letter.upper():
 				if color==self.s.green:
