@@ -14,7 +14,7 @@ If you are not familiar with Wordle, here are short rules:
 
 - You have six attempts to guess the word.
 
-- After each attempt you can see, which letters you did guess correctly:
+- After each attempt you can see which letters you did guess correctly:
 
 "Green" letters are in the right place
 
