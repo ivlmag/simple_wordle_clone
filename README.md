@@ -2,9 +2,11 @@
 
 A simple version of Wordle game, written entirely on Python. This is a clone of [The New York Times game](https://www.nytimes.com/games/wordle/index.html), written for educational purposes.
 
+![screenshot](https://user-images.githubusercontent.com/104437147/170983590-31fee18d-f2a1-424e-8a72-7f82c5f2ad7e.png)
+
 ## Gameplay description
 
-If you are not familiar woth Wordle, here are short rules:
+If you are not familiar with Wordle, here are short rules:
 
 - You need to guess a 5-letter English word. You can use either your real keyboard, or a virtual one on the screen.
 
