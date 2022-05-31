@@ -29,7 +29,7 @@ If you are not familiar with Wordle, here are the short rules:
 * Python
 * [PyGame](https://github.com/pygame/)
 * Stymie font (in repositary)
-* Colorama (for console version)
+* [Colorama](https://pypi.org/project/colorama/) (for console version)
 
 ### Executing program
 
