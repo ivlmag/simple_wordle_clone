@@ -15,7 +15,7 @@ class Settings():
 
 		'''Messages'''
 		self.messages = {}
-		mottos = ['Genius', 'Magnificent', 'Impressive', 'Splendid', 'Nice', 'Phew']
+		mottos = ['Genius', 'Magnificent', 'Impressive', 'Splendid', 'Great', 'Phew']
 		for i in range(1,7):
 			self.messages[i] = mottos[i-1]
 
