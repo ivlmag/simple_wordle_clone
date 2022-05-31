@@ -65,7 +65,7 @@ def main(alphabet):
 		if attempt==6:
 			print(f'The word was "{word_to_guess}".')
 			break
-		guess = input('Enter five-letter word (print "q" to exit): ')
+		guess = input('Enter five-letter word ("q" to exit): ')
 		if guess=='q':
 			break
 		else:
