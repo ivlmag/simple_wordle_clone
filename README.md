@@ -33,9 +33,11 @@ If you are not familiar with Wordle, here are the short rules:
 
 ### Executing program
 
+* Execute <b>launch.bat</b> 
+or
 * Build <b>wordle.py</b> in IDE
 or
-* Run in command line (cmd.exe in Windows):
+* Run in command line:
 ```
 python wordle.py
 ```
